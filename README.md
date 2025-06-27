@@ -4,10 +4,10 @@
 A comprehensive blog platform for schools built using the MERN (MongoDB, Express, React, Node.js) stack. This application demonstrates how these technologies work together to create a full-featured web application with user authentication, data persistence, and responsive UI.
 
 ![Screenshot Description](https://via.placeholder.com/800x400?text=School+Blog+Screenshot)
-![image1](image/image1.png)
-![image2](image/image2.png)
-![image3](image/image3.png)
-![image4](image/image4.png)
+![image1](images/image1.png)
+![image2](images/image2.png)
+![image3](images/image3.png)
+![image4](images/image4.png)
 ## Features
 
 ### User Authentication
